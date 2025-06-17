@@ -10,9 +10,6 @@ It stores learned question-answer pairs in a JSON file and uses fuzzy matching t
 - **Self-learning:** Learns new responses from user input dynamically.
 - **Fuzzy matching:** Handles minor typos or variations in user messages.
 - **Memory persistence:** Saves learned data in a `memory.json` file.
-- **Basic commands:**
-  - `!memorysize` — Shows how many entries the bot currently knows.
-  - `!forgetall` — Clears the bot's memory (owner only).
 - Ignores messages from bots and in direct messages.
 
 ---
