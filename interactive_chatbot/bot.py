@@ -76,4 +76,4 @@ async def on_message(message):
             await message.channel.send("⌛ You didn’t reply in time. Maybe next time!")
 
 
-bot.run("MTM2NjcxMDk5ODk0OTY5MTQ1Mg.GqCS25.UdQgfsVXBhnnIdX3Bi8qK6RectwZP1qmhkf-Vk")
+bot.run("")
